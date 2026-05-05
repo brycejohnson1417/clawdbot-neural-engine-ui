@@ -1,0 +1,6 @@
+{
+  "name": "Clawdbot Neural Engine",
+  "description": "A high-fidelity 3D interactive data core visualization for the Clawdbot system. Features dynamic states (working, idle, disconnected, error) using postprocessing and advanced shader materials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
